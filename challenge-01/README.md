@@ -32,7 +32,7 @@ var comida = {};
 comida = {
 arroz: 'arroz',
 feijao: 'feijao',
-ovo: 'ovo}
+ovo: 'ovo'};
 
 
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
